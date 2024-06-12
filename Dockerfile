@@ -1,3 +1,2 @@
-FROM nginx:latest
-
-COPY nginx.conf /etc/nginx/nginx.conf
+FROM caddy:latest
+COPY Caddyfile /etc/caddy/Caddyfile
