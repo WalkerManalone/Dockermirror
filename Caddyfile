@@ -1,3 +1,0 @@
-googletranslate.onrender.com {
-    reverse_proxy https://translate.google.com
-}
